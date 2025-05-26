@@ -16,7 +16,7 @@ This project is a Go-based API server built using the Gin web framework. It prov
 
 ## Prerequisites
 
--   Go (version 1.24.0 or as appropriate for your project)
+-   Go
 -   Gin Web Framework (`github.com/gin-gonic/gin`)
 
 ## API Endpoints
@@ -69,4 +69,4 @@ The API server runs on `localhost:8080` by default.
         "stock": int 
     }
     
-    -   Handler: `AddInventory`
+-   Handler: `AddInventory`
