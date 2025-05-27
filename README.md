@@ -18,6 +18,7 @@ This project is a Go-based API server built using the Gin web framework. It prov
 
 -   Go
 -   Gin Web Framework (`github.com/gin-gonic/gin`)
+-   SQLite
 
 ## API Endpoints
 
